@@ -45,3 +45,8 @@ git remote add origin https://github.com/你的用户名/仓库名.git
 - ``` D---E---F---A---B---C
 
 ### git merge --no-ff 强制创建合并提交-非快进
+
+
+### git fetch 获取远程状态
+### git pull 合并
+### git push 推送
