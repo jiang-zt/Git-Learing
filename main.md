@@ -50,3 +50,7 @@ git remote add origin https://github.com/你的用户名/仓库名.git
 
 ## git tree
 #### git log --oneline --graph 简洁视图
+
+### git feach 获取远程状态
+### git pull 合并
+### git push 推送
