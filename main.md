@@ -50,3 +50,6 @@ git remote add origin https://github.com/你的用户名/仓库名.git
 ### git fetch 获取远程状态
 ### git pull 合并
 ### git push 推送
+
+### git stash 暂存工作区
+### git stash pop 恢复最近一次暂存
