@@ -20,3 +20,5 @@ git remote add origin https://github.com/你的用户名/仓库名.git
 
 ### git commit -m  "infos about commit" 提交暂存区文件到本地仓库
 ### git commit -a -m  "infos about commit" 一步到位--自动将所有已跟踪文件修改加入暂存区
+
+
