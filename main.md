@@ -53,3 +53,7 @@ git remote add origin https://github.com/你的用户名/仓库名.git
 
 ### git stash 暂存工作区
 ### git stash pop 恢复最近一次暂存
+
+## 变基
+### git rebase 
+### git rebase --abort 取消
