@@ -47,3 +47,6 @@ git remote add origin https://github.com/你的用户名/仓库名.git
 - ``` D---E---F---A---B---C
 
 ### git merge --no-ff 强制创建合并提交-非快进
+
+## git tree
+#### git log --oneline --graph 简洁视图
