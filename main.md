@@ -30,4 +30,18 @@ git remote add origin https://github.com/你的用户名/仓库名.git
 ### git diff <分支名> 比较当前分支与指定分支的差异
 ### git branch -d <分支名> 删除指定分支
 
-## 
+## 合并
+### git checkout main 
+### git merge feature 
+
+### 情况1:main 分支有更新（自动非快进）
+- ```
+- ```          A---B---C feature
+- ```         /
+-   D---E---F---G main
+### 创建合并提交 H
+
+### 情况2:main 分支无更新 main 直接指向 C
+- ``` D---E---F---A---B---C
+
+### git merge --no-ff 强制创建合并提交-非快进
